@@ -1,0 +1,4 @@
+{
+  "tipo": "Acueducto publico",
+  "descripcion": "La comunidad reporta que una tuberia del parque se encuentra rota desde hace varios dias."
+}
